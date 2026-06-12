@@ -1,5 +1,5 @@
 #Hangman in Python 
-import random
+import random 
 from wordlist import words
 
 hangman_art = {0:("   ",
