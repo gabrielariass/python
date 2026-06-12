@@ -23,7 +23,7 @@ python/
 
 | Project | Description | Concepts Covered |
 |---------|-------------|-------------------|
-| [project-name](./project-name) | Short description here | e.g. loops, functions, file I/O |
+| [project-name] | Short description here | e.g. loops, functions, file I/O |
 
 ## Goals
 
