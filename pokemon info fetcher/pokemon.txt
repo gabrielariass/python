@@ -1,0 +1,15 @@
+Name:       pikachu
+ID:         25
+Height:     4
+Weight:     60
+
+Name:       charizard
+ID:         6
+Height:     17
+Weight:     905
+
+Name:       squirtle
+ID:         7
+Height:     5
+Weight:     90
+
